@@ -1,0 +1,3 @@
+CUDA+OMP KNN            : 64.465 ms
+CUDA+OMP Approx KNN     : 44.981 ms
+CUDA+OMP K-means        : 94.594 ms
